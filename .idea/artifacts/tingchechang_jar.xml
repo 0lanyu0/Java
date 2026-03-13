@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="tingchechang:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/tingchechang_jar</output-path>
+    <root id="archive" name="tingchechang.jar">
+      <element id="module-output" name="tingchechang" />
+      <element id="extracted-dir" path="D:/jfreechart-1.0.19/jfreechart-1.0.19/lib/jfreechart-1.0.19.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/jfreechart-1.0.19/jfreechart-1.0.19/lib/jcommon-1.0.23.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/mysql-connector-j-8.4.0/mysql-connector-j-8.4.0/mysql-connector-j-8.0.33.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
